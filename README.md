@@ -8,7 +8,7 @@ First, run the development server:
 npm run dev
 ```
 
-You can also run the Astro template easily using Wasmer:
+You can also run the Astro template easily using Wasmer ([install guide](https://docs.wasmer.io/install)!):
 
 ```bash
 wasmer run wasmer-tests/wasmer-edge-astro-sample --net -- --port 3000
@@ -34,8 +34,7 @@ wasmer deploy
 ```
 
 > [!NOTE]
-> You will need to have Wasmer installed (check out [the docs to install the Wasmer CLI](https://docs.wasmer.io/install)!). 
-> You will also need to change the namespace in `wasmer.toml` to your own namespace and app name in `app.yaml` to your own app name.
+> You will need to change the namespace in `wasmer.toml` to your own namespace and app name in `app.yaml` to your own app name.
 
 ## 🚀 Project Structure
 
