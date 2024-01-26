@@ -10,13 +10,13 @@ npm run dev
 
 ### Run with Wasmer
 
-You can run the Astro template very easily with Wasmer:
+You can run the Astro template easily using Wasmer:
 
 ```bash
 wasmer run wasmer-tests/wasmer-edge-astro-sample --net -- --port 3000
 ```
 
-> [!INFO]
+> [!TIP]
 > You can also run `wasmer run . --net -- --port 3000` in the root of this repo, after running `npm run build`
 
 
