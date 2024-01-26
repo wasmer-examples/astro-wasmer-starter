@@ -1,7 +1,7 @@
 [package]
 name = "wasmer-examples/astro-wasmer-starter"
 version = "0.2.4"
-description = "Wasmer Astro.dev starter package"
+description = "Astro.dev Wasmer starter package"
 readme = "README.md"
 repository = "https://github.com/wasmer-examples/astro-wasmer-starter"
 
