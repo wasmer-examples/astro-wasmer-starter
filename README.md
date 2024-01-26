@@ -8,9 +8,7 @@ First, run the development server:
 npm run dev
 ```
 
-### Run with Wasmer
-
-You can run the Astro template easily using Wasmer:
+You can also run the Astro template easily using Wasmer:
 
 ```bash
 wasmer run wasmer-tests/wasmer-edge-astro-sample --net -- --port 3000
