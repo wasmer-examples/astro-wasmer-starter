@@ -11,7 +11,7 @@ npm run dev
 You can also run the Astro template easily using Wasmer (check out the [install guide](https://docs.wasmer.io/install)):
 
 ```bash
-wasmer run wasmer-exaples/astro-wasmer-starter --net -- --port 3000
+wasmer run wasmer-examples/astro-wasmer-starter --net -- --port 3000
 ```
 
 > [!TIP]
