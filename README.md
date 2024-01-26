@@ -25,7 +25,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 The easiest way to deploy your Astro App is to use the [Wasmer Edge](https://wasmer.io/products/edge).
 
-Live example: http://wasmer-edge-astro-sample.wasmer.app/
+Live example: http://astro-wasmer-starter.wasmer.app/
 
 First, you'll need to run `npm run build`, and then, to deploy to Wasmer Edge:
 
