@@ -50,4 +50,4 @@ jobs:
       #   run: wasmer deploy --registry="https://registry.wasmer.wtf/graphql" --token=${{ secrets.WASMER_CIUSER_DEV_TOKEN }} --publish-package --non-interactive --no-wait --no-persist-id --owner wasmer-tests
       #   continue-on-error: true
       - name: Deploy app to wasmer.io
-        run: wasmer deploy --token=${{ secrets.WASMER_CIUSER_PROD_TOKEN }} --publish-package --non-interactive --no-wait --no-persist-id --owner wasmer-examples
+        run: wasmer deploy --token=${{ secrets.WASMER_CIUSER_PROD_TOKEN }} --publish-package --non-interactive --no-wait --no-persist-id
